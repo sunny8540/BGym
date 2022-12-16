@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BGym/static/css/main.82556278.css",
+    "main.js": "/BGym/static/js/main.109b413d.js",
+    "index.html": "/BGym/index.html",
+    "main.82556278.css.map": "/BGym/static/css/main.82556278.css.map",
+    "main.109b413d.js.map": "/BGym/static/js/main.109b413d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82556278.css",
+    "static/js/main.109b413d.js"
+  ]
+}
